@@ -11,7 +11,7 @@ Customer ratings across product and outlet segments
 
 The findings are presented through an interactive Power BI dashboard built on top of structured Excel data.
 
-📁 Repository Structure
+#### Repository Structure
 Blinkit_Analysis/
 │
 ├── BlinkIT Grocery Data.xlsx          # Raw dataset with grocery sales records
@@ -22,10 +22,11 @@ File: BlinkIT Grocery Data.xlsx
 The dataset includes the following key fields:
 ColumnDescriptionItem IdentifierUnique product IDItem TypeCategory of the grocery item (e.g., Fruits, Snacks, Dairy)Item Fat ContentWhether the item is Low Fat or RegularItem WeightWeight of the productItem VisibilityDisplay/shelf visibility scoreItem MRPMaximum retail priceOutlet IdentifierUnique outlet IDOutlet SizeSize of the store (Small, Medium, High)Outlet Location TypeTier 1, Tier 2, or Tier 3 cityOutlet TypeStore format (Supermarket, Grocery Store)Outlet Establishment YearYear the outlet was openedItem Outlet SalesTarget variable — total sales for that item at that outletRatingCustomer satisfaction rating
 
-📈 Dashboard Highlights
+#### Dashboard Highlights
 File: Blikit_power_bi presentation.pbix
 The Power BI report includes the following visuals and KPIs:
-🔑 Key Metrics
+
+#### Key Metrics
 
 Total Sales — Overall revenue generated
 Average Sales — Mean sales per item-outlet combination
@@ -51,7 +52,7 @@ Prerequisites
 Microsoft Power BI Desktop (free download)
 Microsoft Excel or any compatible spreadsheet viewer
 
-Steps
+#### Steps
 
 Clone the repository
 
