@@ -3,11 +3,15 @@
 A data analytics project exploring sales performance, outlet characteristics, and product trends for Blinkit — India's last-minute grocery delivery app — using Power BI and Excel.
 
  ## Project Overview
+ 
 This project analyzes Blinkit's grocery sales data to uncover key business insights around:
 
 Total and average sales performance
+
 Item type popularity and fat content breakdown
+
 Outlet size, location, and establishment trends
+
 Customer ratings across product and outlet segments
 
 The findings are presented through an interactive Power BI dashboard built on top of structured Excel data.
@@ -23,21 +27,30 @@ The Power BI report includes the following visuals and KPIs:
 #### Key Metrics
 
 Total Sales — Overall revenue generated
+
 Average Sales — Mean sales per item-outlet combination
+
 Number of Items — Total distinct products
+
 Average Rating — Customer satisfaction score
 
  ## Charts & Visuals
 
 Fat Content vs. Sales — Donut chart comparing Low Fat vs. Regular item sales
+
 Item Type Performance — Bar chart of sales by product category
+
 Outlet Establishment Trend — Line chart showing sales growth over outlet age
+
 Outlet Size Distribution — Pie/donut chart of sales split by store size
+
 Outlet Location Analysis — Funnel chart comparing Tier 1, 2, and 3 city performance
+
 Outlet Type Comparison — Matrix table with sales, items, ratings, and item visibility
 
 
 ### Tools and Technologies
+
 Business Intelligence Platform: Microsoft Power BI
 
 Data Transformation Engine: Power Query (M Language)
@@ -48,6 +61,7 @@ Data Storage: Local flat-file architecture
 
 ### Getting Started
 Requirements
+
 Microsoft Power BI Desktop (Version 2.126 or higher recommended)
 
 System memory: Minimum 8 GB RAM (16 GB recommended for large data models)
