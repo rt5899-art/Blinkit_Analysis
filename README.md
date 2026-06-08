@@ -1,4 +1,5 @@
 # Blinkit Grocery Sales Analysis
+
 A data analytics project exploring sales performance, outlet characteristics, and product trends for Blinkit — India's last-minute grocery delivery app — using Power BI and Excel.
 
  ## Project Overview
@@ -13,10 +14,6 @@ The findings are presented through an interactive Power BI dashboard built on to
 
 ![image alt](https://github.com/rt5899-art/Blinkit_Analysis/blob/439c147b447426259b21415c9403cda8f9b174f7/ss-blinkit%20.png)
 
-### Dataset Overview
-File: BlinkIT Grocery Data.xlsx
-The dataset includes the following key fields:
-ColumnDescriptionItem IdentifierUnique product IDItem TypeCategory of the grocery item (e.g., Fruits, Snacks, Dairy)Item Fat ContentWhether the item is Low Fat or RegularItem WeightWeight of the productItem VisibilityDisplay/shelf visibility scoreItem MRPMaximum retail priceOutlet IdentifierUnique outlet IDOutlet SizeSize of the store (Small, Medium, High)Outlet Location TypeTier 1, Tier 2, or Tier 3 cityOutlet TypeStore format (Supermarket, Grocery Store)Outlet Establishment YearYear the outlet was openedItem Outlet SalesTarget variable — total sales for that item at that outletRatingCustomer satisfaction rating
 
 #### Dashboard Highlights
 
