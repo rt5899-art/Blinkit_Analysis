@@ -59,8 +59,7 @@ Analytical Calculation Language: DAX (Data Analysis Expressions)
 
 Data Storage: Local flat-file architecture
 
-### Getting Started
-Requirements
+### Requirements
 
 Microsoft Power BI Desktop (Version 2.126 or higher recommended)
 
