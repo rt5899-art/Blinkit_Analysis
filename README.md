@@ -6,7 +6,7 @@ This project features a comprehensive retail analytics dashboard tailored for Bl
 
 #### Dashboard Preview
 
-![image alt](https://github.com/rt5899-art/Blinkit_Analysis/blob/439c147b447426259b21415c9403cda8f9b174f7/ss-blinkit%20.png)
+![image alt](https://github.com/rt5899-art/Blinkit_Analysis/blob/main/Screenshot%202026-06-22%20162301.png?raw=true)
 
 ### Tools & Technologies
 
