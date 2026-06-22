@@ -10,11 +10,11 @@ This project features a comprehensive retail analytics dashboard tailored for Bl
 
 ### Tools & Technologies
 
-Data Visualization: Microsoft Power BI
+ *Data Visualization: Microsoft Power BI
 
-Data Engineering: Power Query for handling missing values (e.g., outlet size normalization) and schema alignment
+ *Data Engineering: Power Query for handling missing values (e.g., outlet size normalization) and schema alignment
 
-Analytics Engineering: DAX (Data Analysis Expressions) for complex quick-commerce KPIs and market-share measures
+ *Analytics Engineering: DAX (Data Analysis Expressions) for complex quick-commerce KPIs and market-share measures
 
 
 ### Key Business Insights
